@@ -8,6 +8,7 @@ Desafios
 
 - React;
 - Routes;
-- Hooks - useState, useEffect;
+- Hooks;
+- useState, useEffect;
 - API;
 - Services.
